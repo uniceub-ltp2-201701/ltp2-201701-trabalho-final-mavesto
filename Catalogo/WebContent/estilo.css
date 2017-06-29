@@ -1,0 +1,155 @@
+@CHARSET "ISO-8859-1";
+
+a{
+	color : #006b9f;
+}
+
+a:visited {
+	color : #000000;
+}
+body{
+	font-size : 20px;
+	background-color: #cacaca;
+}
+
+
+div {
+	position: absolute;
+	
+}
+
+div#listaDeFilmesInicio{
+	width : 1300px;
+	margin: 100px 340px 0px -10px;
+	
+}
+div#listaDePessoas{
+	width : 1300px;
+	margin: 100px 340px 0px -10px;
+}
+
+div#pesquisas{
+	top : 0px;
+	right : 0px;	 
+}
+
+img#imagemDoFilme{
+	width : 200px;
+	height : 320px;
+	
+}
+
+img#imagemDaPessoa{
+	width : 200px;
+	height : 320px;
+	
+}
+
+div#usuario{
+	top: 0px;
+	right: 400px;
+	posistion : absolute;
+	
+}
+
+div#listaDeFilmes{
+	margin: 100px auto 0px auto;
+	width: 500px;
+	
+}
+
+div#adicionarUmNovoFilme{
+	width: 500px;
+	margin: 230px auto 0px 500px;
+	
+	
+}
+
+div#adicionarUmaNovaPessoa{
+	width: 500px;
+	margin: -20px auto 0px 500px;
+	
+	
+}
+
+div#excluirPessoa{
+	margin: -20px auto 0px	1000px;
+	width: 300px;
+	
+	
+}
+div#adicionarGenero{
+	margin: 0px auto 0px 600px;
+	width: 300px;
+	
+	
+}
+
+div#excluirGenero{
+	width: 300px;
+	posistion :absolute;
+	margin: 140px auto 0px 600px;
+	
+}
+
+
+div#adicionarAtor{
+	width: 300px;
+	margin: 0px 500px 0px auto;
+	
+}
+div#adicionarDiretor{
+	width: 300px;
+	posistion :absolute;
+	margin: 0px auto 0px 300px;
+	
+}
+
+div#excluirAtor{
+	width: 300px;
+	posistion :absolute;
+	margin: 140px 500px 0px auto;
+	
+}
+
+div#excluirDiretor{
+	width: 300px;
+	posistion :absolute;
+	margin: 140px auto 0px 300px;
+
+}
+
+fieldset#posters{
+	width : 200px;
+	height : 320px;
+	display : inline-block;
+	padding : 1px;
+	list-style : none;
+	
+}
+fieldset#postersDePessoa{
+	width : 200px;
+	height : 320px;
+	display : inline-block;
+	padding : 1px;
+	list-style : none;
+}
+
+fieldset#detalhaFilme{
+	width : 1250px;
+<<<<<<< HEAD
+	
+=======
+	float : right;
+>>>>>>> branch 'master' of https://github.com/uniceub-ltp2/ltp2-201701-trabalho-final-mavesto
+	height : 320px;
+	
+	background-color: white;
+}
+
+div#botao{
+	margin: 280px auto 0px 0px;
+	
+}
+
+
